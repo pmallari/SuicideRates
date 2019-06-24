@@ -1,5 +1,5 @@
 # SuicideRates
-Finding patterns and trends in suicide data
+A beginner data exploration on suicide data provided in [Kaggle](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016). The goal is to find meaningful patterns and trends on suicide data from 1985 to 2016.
 
 Key insights that were found:
 - Global rate of suicide is decreasing
